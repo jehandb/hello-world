@@ -1,4 +1,4 @@
 # hello-world
 My test and trial location 
 
-Look forward to expore GitHub more and use frequently 
+Look forward to expore GitHub more and use it frequently 
